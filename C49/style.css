@@ -1,0 +1,17 @@
+
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+}
+.origami{
+    border-radius:20px;
+    background-color: aliceblue;
+    width: 310px;
+}
+.menu{
+    background-color:chartreuse;
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 35;
+
+}
